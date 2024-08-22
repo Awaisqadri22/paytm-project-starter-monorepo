@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function () {
-  return <div>Dashbaord...</div>;
-}
+const page = () => {
+  return <div>dashboard</div>;
+};
+
+export default page;
